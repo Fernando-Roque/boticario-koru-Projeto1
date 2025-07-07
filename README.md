@@ -13,7 +13,7 @@
 
 Até dia 07/07/2025 (até às 18:30) - Link do deploy e/ou do código no grupo de projeto específico (grupo 1, grupo 2, grupo 3...).
 
-**Este é um [deploy](https://adaptable-turn.surge.sh/) para o surge(Local de hospedagem do projeto).**
+**Este é um [deploy](http://gusty-rice.surge.sh/) para o surge(Local de hospedagem do projeto).**
 
 **[Link](https://github.com/Fernando-Roque/boticario-koru-Projeto1) para o Github do projeto.**
 
@@ -59,6 +59,6 @@ Implementar um Dark Mode usando CSS Variables e `prefers-color-scheme`.
 
 ![exemplo de Diário](downloadatividade1.png)
 
-### Autor : fernando Maurício Roque
+### Autor : Fernando Maurício Roque
 
 📬 Envie um email para mim : [fernando.mauricio.roque@gmail.com](mailto:fernando.mauricio.roque@gmail.com)
