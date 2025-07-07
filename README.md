@@ -1,8 +1,21 @@
-# PROJETO 1 - Página de Diário
+# PROJETO 1 - Diario_Boticário_Koru
 
-## Entrega
+## Projeto: Página de Diário Pessoal ✍️
+
+## Tecnologias Utilizadas
+
+- HTML5 Semântico
+- CSS3 com Flexbox/Grid
+- Google Fonts
+- Dark Mode (opcional)
+
+## 📓 Entrega
 
 Até dia 07/07/2025 (até às 18:30) - Link do deploy e/ou do código no grupo de projeto específico (grupo 1, grupo 2, grupo 3...).
+
+**Este é um [deploy](https://adaptable-turn.surge.sh/) para o surge(Local de hospedagem do projeto).**
+
+**[Link](https://github.com/Fernando-Roque/boticario-koru-Projeto1) para o Github do projeto.**
 
 ## Descrição
 
@@ -16,7 +29,7 @@ Como desafios extras (opcionais), exploraremos a implementação de um modo escu
 **Atividade Principal:** Criar um arquivo `index.html` e `style.css` para a página de journaling, estruturar semanticamente algumas entradas de exemplo diretamente no HTML, e estilizar a página de forma atraente usando CSS.`
 **Ênfase:** Integração prática de HTML e CSS, criação de um layout coeso, atenção à semântica do HTML e à estética visual da página.
 
-## Objetivos
+## 🎯 Objetivos
 
 Os alunos deverão ser capazes de estruturar conteúdo de forma semântica usando HTML:
 Aplicar tags como `<main>, <article>, <header>, <footer>, <time>, <h2>, <p>` de forma apropriada para criar entradas de diário estáticas.
@@ -45,3 +58,7 @@ Implementar um Dark Mode usando CSS Variables e `prefers-color-scheme`.
 **Fontes:** Use Google Fonts para dar um toque profissional à tipografia.
 
 ![exemplo de Diário](downloadatividade1.png)
+
+### Autor : fernando Maurício Roque
+
+📬 Envie um email para mim : [fernando.mauricio.roque@gmail.com](mailto:fernando.mauricio.roque@gmail.com)
